@@ -12,8 +12,10 @@ This is a modern Flutter project that lists Harry Potter characters using **Rive
 
 ## Screenshots
 
-### Home Screen
-![Home Screen](./assets/images/characterslist.jpg)
+<p align="center">
+  <strong>Character List Screen</strong><br/>
+  <img src="./assets/images/characterslist.jpg" width="400" /><br/><br/>
 
-### Character Details Screen
-![Character Details](./assets/images/characterdetails.jpg)
+  <strong>Character Details Screen</strong><br/>
+  <img src="./assets/images/characterdetails.jpg" width="400" />
+</p>
