@@ -1,16 +1,19 @@
-# harry_potter_characters
+# Harry Potter Characters
 
-A new Flutter project.
+This is a modern Flutter project that lists Harry Potter characters using **Riverpod**, **Dio**, and **Freezed**. The app fetches data from an API and displays a list of characters with relevant details. Additionally, it is structured following Clean Architecture principles.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Displays a list of Harry Potter characters.
+- Uses **Riverpod** for state management.
+- Fetches data via **Dio** API calls.
+- **Freezed** for immutable data models and type safety.
+- Structured using **Clean Architecture**, ensuring the maintainability and testability of the code.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Home Screen
+![Home Screen](./assets/screenshots/home_screen.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Character Details Screen
+![Character Details](./assets/screenshots/character_details.png)
